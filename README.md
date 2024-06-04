@@ -7,9 +7,15 @@
 ![QQ截图20240604143926](https://github.com/A719689614/ComfyUI_AC_FUNV4/assets/142242136/55354655-1b1c-4c06-8928-03e00d3a0a81)
 
 补充内容:
+
 链接：https://pan.baidu.com/s/16Esz9HegD_TQLDoVjkGvYA 
-提取码：ACAC 
+
+
+提取码：ACAC
+
+
 把网盘下载的模型放到插件目录下即可
+
 ![image](https://github.com/A719689614/ComfyUI_AC_FUNV4/assets/142242136/7ab5bd3e-ddca-49b8-9488-ebb703984319)
 
 # 三、关于Cc啊程、
